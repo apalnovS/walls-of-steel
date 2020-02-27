@@ -3,7 +3,7 @@
 [![Inline docs](http://inch-ci.org/github/github-changelog-generator/github-changelog-generator.svg)](http://inch-ci.org/github/github-changelog-generator/github-changelog-generator)
 [![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)](https://gitter.im/github-changelog-generator/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# github-changelog-generator ![GitHub Logo](../master/images/logo.jpg)
+# github-changelog-generator
 
 #### Update:
 
